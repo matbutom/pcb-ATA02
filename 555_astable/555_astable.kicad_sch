@@ -1678,7 +1678,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "patitas de 555:\n\n1: a GND (+)\n2: a GND (+) por C de 10n, a patita 3 de pote-1\n3: a R 10k hacia (+) LED y LED a VCC (-). \n3: a pin 14 de 4017\n4: a VCC (-)\n5: a GND (+) por C de 100n\n6: a patita 2\n7: a VCC (-) por R 10k, a patita 2 de pote-1\n8: a VCC (-)\n\nJ1: alimentación + switch\nJ2: salida potenciómetro + salida output pin 3\nJ3: salida alimentación a 4017"
+	(text "patitas de 555:\n\n1: a GND (+)\n2: a GND (+) por C de 10n, a patita 3 de pote (J2)\n3: a R 10k hacia (+) LED y LED a VCC (-). \n3: a pin 14 de 4017\n4: a VCC (-)\n5: a GND (+) por C de 100n\n6: a patita 2\n7: a VCC (-) por R 10k, a patita 2 de pote (J2)\n8: a VCC (-)\n\nJ1: alimentación + switch\nJ2: salida potenciómetro + salida output pin 3\nJ3: salida alimentación a 4017"
 		(exclude_from_sim no)
 		(at 14.224 115.57 0)
 		(effects
