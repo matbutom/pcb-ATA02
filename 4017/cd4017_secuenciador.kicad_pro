@@ -525,7 +525,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber-4017/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
