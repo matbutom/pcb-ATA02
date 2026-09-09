@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "parla") (type "KiCad") (uri "/Users/matbutom/Downloads/MAM/parla.pretty") (options "") (descr ""))
+)

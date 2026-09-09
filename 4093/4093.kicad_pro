@@ -508,7 +508,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber-4093/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -632,7 +632,7 @@
         "uuid": "3296168f-7dc6-4b8e-b273-80464ac5df8f"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R5,H1-2,RV1-4",
     "variants": []
   },
   "sheets": [
